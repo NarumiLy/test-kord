@@ -1,2 +1,2 @@
 # test-kord
-Just a little test with Kord (kotlin wrapper for discord API)
+Just a little test with [Kord](https://github.com/kordlib/kord) (kotlin wrapper for discord API) 
