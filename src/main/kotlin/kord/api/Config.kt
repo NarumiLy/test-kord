@@ -2,13 +2,13 @@ package kord.api
 
 object Config {
 
-    const val TOKEN = "NTI3MTk0NDk0NjQ3NDAyNDk3.Xu6InQ.jg3UO_pjQVZBV-_UvAnVm9-u2vw";
+    const val TOKEN = "TOKEN BOT";
 
-    const val PREFIX = "H:";
+    const val PREFIX = "PREFIX";
 
-    const val CREATORID = "566716997887590401";
+    const val CREATORID = "YOUR ID";
 
-    const val GITHUB_ACCOUNT = "https://github.com/NarumiLy";
+    const val GITHUB_ACCOUNT = "https://github.com/NarumiLy"; // Please let the link :(
 
-    const val STATUS = "${PREFIX}help for the list of cmds."
+    const val STATUS = "STATUS OF THE BOT"
 }
